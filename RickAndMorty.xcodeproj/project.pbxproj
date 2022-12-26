@@ -25,6 +25,7 @@
 		4C720F692959CC83000B8820 /* RMCharacterGender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C720F682959CC83000B8820 /* RMCharacterGender.swift */; };
 		4C720F6B2959CDF4000B8820 /* RMService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C720F6A2959CDF4000B8820 /* RMService.swift */; };
 		4C720F6D2959CE3B000B8820 /* RMRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C720F6C2959CE3B000B8820 /* RMRequest.swift */; };
+		4CB978412959D27A000B8DC2 /* RMEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CB978402959D27A000B8DC2 /* RMEndpoint.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		4C720F682959CC83000B8820 /* RMCharacterGender.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterGender.swift; sourceTree = "<group>"; };
 		4C720F6A2959CDF4000B8820 /* RMService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMService.swift; sourceTree = "<group>"; };
 		4C720F6C2959CE3B000B8820 /* RMRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMRequest.swift; sourceTree = "<group>"; };
+		4CB978402959D27A000B8DC2 /* RMEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMEndpoint.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 			children = (
 				4C720F6A2959CDF4000B8820 /* RMService.swift */,
 				4C720F6C2959CE3B000B8820 /* RMRequest.swift */,
+				4CB978402959D27A000B8DC2 /* RMEndpoint.swift */,
 			);
 			path = "API Clients";
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C720F5D2959C418000B8820 /* RMLocationViewController.swift in Sources */,
+				4CB978412959D27A000B8DC2 /* RMEndpoint.swift in Sources */,
 				4C720F632959CAAE000B8820 /* RMOrigin.swift in Sources */,
 				4C720F6D2959CE3B000B8820 /* RMRequest.swift in Sources */,
 				4C720F582959C39A000B8820 /* RMEpisode.swift in Sources */,

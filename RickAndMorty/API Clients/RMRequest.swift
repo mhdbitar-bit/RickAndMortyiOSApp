@@ -7,6 +7,7 @@
 
 import Foundation
 
+/// Object that  represent a single api call
 class RMRequest {
     
 }
